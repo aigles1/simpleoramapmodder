@@ -20,5 +20,5 @@ Instructions on how to use in Windows:
 
 To change the title of the map from saying BI-3.6, edit line 51 of the script.
 
-To change end of the filename from _BI-3.6 to something else, edit line 86 of the script.
+To change the end of the filename from _BI-3.6 to something else, edit line 86 of the script.
 
