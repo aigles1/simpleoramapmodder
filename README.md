@@ -12,7 +12,7 @@ Instructions on how to use in Windows:
 5. Edit append.txt with what you want to add at the end of the map.yaml.
 6. Edit category.txt with the category you want for the map chooser in game.
 7. Make sure you have Python 3.x installed.
-8. Open cmd or powershell and cd to the folder you created.
+8. Cd to the folder you created.
 9. To run use the command: python simpleoramapmodder.py
 
 10. Optional: Before playing the map, open the map in the Map Editor and save it to ensure compatibility.
