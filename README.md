@@ -16,7 +16,7 @@ Instructions on how to use in Windows:
 9. To run use the command: python simpleoramapmodder.py
 
 10. Optional: Before playing the map, open the map in the Map Editor and save it to ensure compatibility.
-11. If you want to mod another map the same way, just delete the original .oramap and place another map in the same folder and run the script again.
+11. If you want to mod another map the same way, just delete the original .oramap, place another map in the same folder, and run the script again.
 
 To change the title of the map from saying BI-3.6, edit line 51 of the script.
 
