@@ -11,7 +11,7 @@ Instructions on how to use in Windows:
 4. Create two .txt files in the append folder named append.txt, and category.txt, or use the provided examples for BI-3.6 rules.
 5. Edit append.txt with what you want to add at the end of the map.yaml.
 6. Edit category.txt with the category you want for the map chooser in game.
-7. Make sure you have Python 3.x installed.
+7. Make sure you have Python 3.x installed and required packages.
 8. Cd to the folder you created.
 9. To run use the command: python simpleoramapmodder.py
 
